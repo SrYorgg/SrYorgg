@@ -94,25 +94,6 @@ Meu objetivo é escrever código limpo, criar sistemas confiáveis e continuar e
   />
 </p>
 
-<h2 align="center">📊 Estatísticas do GitHub</h2>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SrYorgg&theme=city_lights&hide_border=false&border_radius=5"
-    height="150"
-    alt="Estatísticas de contribuições"
-  />
-</div>
-
-<h2 align="center">📈 Gráfico de atividades</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SrYorgg&bg_color=1F242C&color=E6EDF3&line=3B82F6&point=58A6FF&area=true&hide_border=true&radius=16&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es"
-    alt="Gráfico de atividades do GitHub"
-  />
-</p>
-
 <h2 align="center">⌘ Atividade de commits</h2>
 
 <p align="center">
