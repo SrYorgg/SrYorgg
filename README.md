@@ -96,25 +96,6 @@ Meu objetivo é escrever código limpo, criar sistemas confiáveis e continuar e
 
 <h2 align="center">⌘ Atividade de commits</h2>
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SrYorgg/SrYorgg/output/pacman-contribution-graph-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/SrYorgg/SrYorgg/output/pacman-contribution-graph.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/SrYorgg/SrYorgg/output/pacman-contribution-graph-dark.svg"
-      alt="Animação Pac-Man das contribuições"
-    />
-  </picture>
-</p>
-
 <h2 align="center">⌘ Filosofia</h2>
 
 <p align="center">
