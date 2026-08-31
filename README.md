@@ -56,26 +56,6 @@ Meu objetivo é escrever código limpo, criar sistemas confiáveis e continuar e
       alt="GitHub"
     />
   </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/jorge-luis-b20896224/">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      height="45"
-      alt="LinkedIn"
-    />
-  </a>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:jorge.arruda.rodrigues@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      height="45"
-      alt="E-mail"
-    />
-  </a>
 </p>
 
 <h2 align="center">💻 Tecnologias</h2>
