@@ -46,18 +46,6 @@ Meu objetivo é escrever código limpo, criar sistemas confiáveis e continuar e
 
 <br clear="right"/>
 
-<h2 align="center">🤝 Conecte-se comigo</h2>
-
-<p align="center">
-  <a href="https://github.com/SrYorgg">
-    <img
-      src="https://skillicons.dev/icons?i=github"
-      height="45"
-      alt="GitHub"
-    />
-  </a>
-</p>
-
 <h2 align="center">💻 Tecnologias</h2>
 
 <p align="center">
